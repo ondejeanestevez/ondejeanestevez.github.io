@@ -1,0 +1,760 @@
+ername: voodoo
+Password: power
+
+Level 5: This is a song the voodoo book, check it up and you will get "simple songs" as the name of the song. (Used to be some things)
+
+Username: simple
+Password: songs
+
+Level 6: Use ascii code, there are numbers in the bottom black page once you translate it you get "lilk uorh" anagram for kill hour
+
+Username: kill
+Password:hour
+*Used to be "help doom"*
+
+Level 7: The german name of twix, and the old german name, check it up on google, it is Raider, then in the URL is says to name it backwards, so then it will be rediar, put that in the URL and your in level 8.
+
+rediar.htm
+
+Level 8:
+
+Username: inverted
+Password: levelten
+
+Got this one thanks to enigma48
+
+Level 9: View the source code, the very long line, delete the sorce="not" and then press enter each time, you will be left with one word, you will also see a <br> that will seperate the username and the password, continue doing what you were doing and you will get your password, you should arrive at:
+
+Username: turnmeon
+Password: deadman
+
+Level 10: For this one you need audio manipulation software ! (old username was hello password was stranger)
+
+Username: grey
+Password: world
+Updated thanks to zumeria
+
+Level 11: This one is pretty easy, look at the source code, this level is ahead of its time, so this pic is screen12.jpg, so it is ahead of its time, so typie in screen11.jpg, and there is your username and password.
+
+Username: fucking
+password: pans
+
+Level 12: Ok, all i did for this one was name everything i saw in the pics, finaly i wrote remote control and i got it. GIF him his pic, enter realscreen12.gif and u see that the remote changes. Keep switching them and the one that moves the most is the username and password.
+
+Username: remote
+Password: control
+
+Level 13: For this one, there are letters hidden all over this picture, and there are those popups that come up, the 2 of 5 x of 5 and that crap that is a hint, username has 5 letters, now the number 13 is bad luck, lucy doesnt live in the sky, what is used synonomously to sky? Heaven, what is opposite of heaven, hell, now who lives in hell? The devil. therefore:
+
+Username: devil
+Password: hell
+
+Level 14: As you can see we have this this picture in level 5, if you look at the source code it will tell you what language and spell it properly, so when you see something again, you say déjà vu, therefore:
+
+Username:déjà
+Password: vu
+
+Level 15: lol too easy, look in the source code, u should see numbers and stuff. Now the title is hit the keyboard, if u see there are number 1-3 inside the brackets and how many rows in a keyboard? 3. the other numbers tell u how far to count from the start of that row, so [1] 4 is 1st row 4th letter which is R. after you decode it, you get random shit. (used to be rest peace)
+
+Username: random
+Password: shit
+Updated thanks to zumeria
+
+Level 16: This is a very hard level, read the source code and it gives you these three words with slashes, and it tells you to invert, you must invert the alphabet, so a=z, decode those three words and you will see that they are the usernames of previous levels. you will get early/some/help in the pictures you ignore all 0's look at a number if it says 2 you count 2 letters in the username of that level, if it is #2 then you count 2 letters and inverse that letter, do that for all the numbers with pics, after that is done, you will get 2 words; doom murder. (used to be zoom murder)
+
+Username: doom
+Password: murder
+Updated thanks to zemoria
+
+Level 17: Strange level, all you do for this is you name what you see, i tried light, and it says that is too easy, and i try bulb, then it says where do you put that in, i put in lamp, and there ya go ! So change the URL to /lamp.htm
+
+lamp.htm
+
+Level 18: For this level you need to hear the music playing, it is a piano, it is playing different notes ranging from a-g you need to name a word that correspond to the notes being played. The answer was cage.htm but the owner changed it becuase of spoliers on the net. (used to be fade.htm)
+
+deaf.htm
+
+Level 19: For this one look at the two clustered up groups of letters and look where the finger is pointing, it is pointing to the left, and you have letters. So move the letter a letter to the left in the alphabet, so "b" would go to "a" do that for the 2 word clusters and you get unfair riddle.
+(used to be unfair riddle)
+
+Username: weird
+Password: stuff
+
+Level 20: If you look at the name it says fonts numbers and stuff, there is only one common font there, all thise symbols are the font Windings, forget about everything else there, once you decode that font you will get: really unfair.
+
+Username: really
+Password: unfair
+
+Level 21: For this one you replace the htm thing with a color.jpg so like with blue.jpg and orange.jpg so all the colors you will need to discard the light blue and lilac colors you will see that they are not useful, then you overlap all these pictures and you will get a maze, follow that maze and you will get something like this:
+
+http://deathball.net/notpron/twentyone/solution.jpg
+
+Follow the lines and you will spell out getting further. (*It used to be making progress*)
+
+Username: getting
+Password: further
+
+Submitted by Threaphus
+
+Level 22: The answer for this is the sentence in the picture, it says the answer is unexpected, so change the bannana.htm to unexpected.htm and your at 23.
+
+Level 23: (The answer is not secret.htm anymore it was changed) For this one what is the tiniest thing that you can see, a pixel. Change the URL to pixel.htm and it will tell you something like i am small and red zoom me. So zoom into the red letters and you will see something being spelled out with those letters.
+
+music.htm
+
+Submitted by Threaphus
+
+Level 24: Look in the source code, see those numbers? See the phone, phone numbers, now you need to get those numbers and spell out the answer with them, you will get stupidphone, so put in stupidphone.htm as your answer in the URL and you will be at 25.
+
+nextlevel.htm
+*was stupidphone.htm*
+Submitted by Threaphus
+
+Level 25: If you know computers this should be pretty easy 0000FF and FF0000 are the hex codes for blue and red. So you need to edit that picture and take all the colors out expect blue and red, your answer will be revealed.
+
+Username: riddle
+Password: solved
+
+Level 26-30 The hardest one yet, I had to cheat on this one. Ok first what u see is a zipper, so load the jpg as the URL, chane the jpg part to .zip open the file, look at the picture, it is level 27, now read the posters, says level 26 needs more tits, so go back to level 26 and change the URL from notpron into pron then you see the number 28, so put in screen 29, anyways just read here for the spolier:
+
+put in /pron/screen26 then put in /pron/screen29 then put in /notpron/screen30 the username and passwords will be on that page.
+
+Level 30: go to deathball.net, go to Staff, Click on DavidM's pic, Change the url from davidb to davidm
+you will get
+
+davidandhism.htm
+
+Level 31: open the pic on Exif Reader, or PS w/e even in notepad, the thing is to see the JPG info, there u found the name of a city
+hirstein.htm
+
+(used to be /eisenhuettenstadt.htm, then it was changed to evolve.htm)
+Submitted by sykkes
+
+Level 32: In the source you see "he took the via apia"...a road near the vatican
+the vatican being the peak of the christian world.
+Put this in the URL
+/notvaticananymore.htm
+*used to be vatican.htm*
+
+Level 33: check the comic book , then the source code, it says "be quiet+anakin", type "sftu" in the keyboard u see ad u get "kewl", anakin=any (hint on the title), so typing any on the keyboard u get "day" , ( if u have r american u get "daz", on germany "y" and "z" r mixed on the keyboard)
+Put this ion the URL
+/kewlday.htm
+
+Level 34: See the shell? That is the gas station shell, they give fuel, see the -82 look in the periodic table, element 82 is lead, the - means no lead, so it is unleadedfuel: Put this in the URL /unleadedfuel.htm
+
+Level 35: the pic is a keyhole, brightening u see a ".com" inside then go to keyhole.com dl the software and check the coords on the title and u/p box zoooooooooom and u see:
+
+Username: mickey
+Password: mouse
+
+Level 36: See the <psd></psd> tags? they arent html, its the extension for PS files, so try 36tbh.psd, dl that file check there r some layers, u found letters that make:
+Used to be /exclusive.htm now try
+evolve.htm
+Submitted by pelesy
+
+Level 37: A german calendar, check the date on the title on german format, googling u get that is the birthday of Elvis Presley
+Put this in the URL
+/elvis2.htm also try elvis.htm if elvis2 don't work.
+
+Level 38: See a cup of cofee, then a glass, and a mail, the hint on the source is MSN + messenger, and the title says "4th?", in msn messenger typing (C) u get the coffe, (D) and (E) get the others, the 4th must be (F), typing that u get a flower so the answer is
+Put this in the URL
+/flower.htm
+(used to be einstein.htm)
+Thanks to Griffe
+
+Level 39: was /boobless.htm If you look in the source those numbers are ascii code, convert them, then write them down, then flip the page, that is your answer. The new answer is boobies.htm
+Submitted by Sykkes
+
+Level 40: Look at the number, zoom it u read Is
+more.htm
+(was /help.htm) Submitted by pucket
+
+Level 41: Listen to the sound, is morse code, decoding it u get
+Is
+genius.htm
+(was /nextlevel.htm) Submitted by pucket
+
+Level 42: Original written by", decoding the numbers in the source u get "voodoo" search a bout big bad voodoo daddy and look who write the songs
+Put this in the URL
+/scottymorris.htm
+
+Level 43: The pic is 43small, change to 43big and zoom u read (was /sizematters.htm) Is now
+verysmall.htm
+Submitted by Sykkes
+
+Level 44: Think of this level as a rubix cube, allign all the black squares on the very right side of the wall, you will have a word spelled out. Remmember think of it as sliding a row... It was evil.htm, but the same priciple applies here. The new answer is blow.htm
+Answer submited by Sykkes
+
+Level 45: Follow the languages, on the pic source and title u see 40-45 in many languages, so take a map of europe, follow the languages, u get the next one is swedish, so type 46 in swedish
+
+/fyrtiosex.htm
+
+Level 46: Save this picture, then save the 45b picture, overlap the 2 pics, look through the white holes, you will get extra and fun spelled out, i thought it was FVB or FUB i didn't see an "n" at all...
+To find where to the password screen is, look in the source code, you will see /threethreethree/ replace that with /nomeaning/ and make sure you delete the htm part or u wont get in. so only have /threethreethree/ at the end.
+*I got this level thanks to maxcool*
+
+Username:extra
+Password: fun
+
+Level 47: Thats the chords from the background tune, just the ? is left out. Its a "G flat diminished" one.
+Sure....f#dim, adim, cdim, d#dim and eb#dim are the same, you can go there too, and you'll be directed to gbdim.
+(diminished chords consist of THREE tone steps..you can do it endless, and there are only 3 diminished chords at all because all have 4 starting points, but in the end they are the same)
+You can also access many wrong ones (DavidM)
+Put in /adim.htm in the URL, then it will say gbdim.htm so Put that in the URL.
+
+gbdim.htm
+
+*got this level thanks to Fenrir*
+
+Level 48: "If you take TGTCGGATTAACGCCTT from the title of the page. Use google to find a DNA convertor like this one
+http://au.expasy.org/tools/dna.html When you translate it you will notice the first section spells out valentine. Type in valentine.htm in the url. (used to be criminal.htm)
+
+valentine.htm
+
+solution for this level was submitted by KaylaWolf
+
+Level 49: In the source:
+
+USA vs Germany
+LBS vs KG
+INCH vs CM
+
+(used to be fahrenheit 911)
+
+Username: 112
+Password: eurocelsius
+
+Level 50: "Here you see a picture of parked cars and a cars headlights(at least thats what it looked like to me) So after a few guesses(headlights, headlight, lights) I typed in light.htm. I got a page that said something like you mean the laser?. So I just typed it in":
+
+laser.htm
+
+Answer and solution for this level was submitted by KaylaWolf
+
+Level 51: "You see on the page It really ownz to just name whatever you see in the picture doesn't it? This one is just as simple the picture is of a tower."
+
+tower.htm
+
+Answer and solution to this level was submitted by KaylaWolf
+
+Level 52: "Another easy naming the picture page. The picture is of a tree. "
+
+tree.htm
+
+Answer ans solution for this level was submitted by KaylaWolf
+
+Level 53: "Same as the others. Picture is of a road."
+
+Road.htm
+
+This level was done also from the help of KaylaWolf
+
+Level 50:(the real one!) The last 3 levels were just too easy... "This one tells you that the first 51-53 are joke. It also says it ain't gonna be easy. If you notice you will see the page has frames. If you view both sources you will notice one is the same as the first 50 but the other is different. It has conversations between people. It shows how the were known as so and so 51 and are now known as so and so 53.
+
+Here is the conversation:
+
+Monday 22. November 2004
+[05:42:48] * ml_50 is now known as ml_51
+[05:50:25] * ml_51 is now known as ml_52
+[05:51:29] * ml_52 is now known as ml_53
+[05:52:15] <ml_53> beautiful
+[05:52:20] * ml_53 is now known as ml_50
+
+[17:57:46] * tonny_52 is now known as tonny_53
+[17:57:57] <tonny_53> now it's fair
+[17:58:39] <tonny_53> shiiiitt
+[17:58:59] * tonny_53 is now known as tonny_50
+
+[19:18:42] <Jimmy_53> NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+[19:18:47] <Jimmy_53> DAVID
+[19:18:49] <Jimmy_53> YOU EVIL
+[19:18:49] <Jimmy_53> EVIL
+[19:18:50] <Jimmy_53> EVIL
+[19:18:50] <Jimmy_53> EVIL
+[19:18:51] <Jimmy_53> PERSON
+[19:18:55] <Jimmy_53> i GOT OWNED
+[19:19:08] * Jimmy_53 is now known as Jimmy_50
+
+[19:28:21] <emjay_50> omg
+[19:28:28] * emjay_50 is now known as emjay_51
+[19:28:29] <emjay_51> wow
+[19:29:44] * emjay_51 is now known as emjay_52
+[19:29:48] <Jimmy_50> LOL
+[19:30:15] <Jimmy_50> gogo emjay
+[19:29:50] <emjay_52> 51 is easy too
+[19:30:15] * emjay_52 is now known as emjay_53
+[19:30:31] <emjay_53> gay!
+[19:30:36] * emjay_52 is now known as emjay_50
+
+
+[18:12:14] <Steve_53> the new levels aren't as well thought out they just don't appear as coherent to the rest of the game.
+
+I didn't understand it and got help from a friend. He said the game minesweeper. I didn't get it at first but then I figured it was the answer. I have no idea how he got that from the clues and he doesn't remember how either."
+
+boring.htm
+(used to be minesweeper.htm)
+This difficult level was solved by KaylaWolf the new answer was submitted by pelesy.
+
+Level 51: now you get a picture of a minesweeper game.
+If you look at where the cursor is in the game you will notice you can faintly see a mine; it also seems as though he knows where all the mines are. Another clue is the title which is unfair. The player is cheating. I tried a few words like cheating, cheat, hack etc. Those words got me thinking so I checked on google for mindsweep cheats. ( http://www.consolecheatcodes.com/pc/minesweepercheats.html )
+The first one is the the reveal mine. I tried reveal and then revealmine. I then noticed Spiel ? in the image and I came to the conclusion that it might be the actual code."
+
+xyzzy.htm
+
+This answer too was submitted by KaylaWolf, thanks
+
+Level 52: "You will first notice a map of europe and the herbie picture behind it. You will then notice that the map is upside down. The pins point to capitals; you will get this from the title which states Case sensitive (meaning lowercase and capital...lowercase doesn't make sense here leaving capital as the clue)
+
+I saved the pins image and googled for a map of europe(sorry didn't save the link but it is easy to find). I saved the europe map and then opened paint shop pro. I took the pins image fliped it and copied and pasted it transparently to the europe map (you may need to enlarge the pins image before copying like I did). I quickly noticed most pins did point to capitals. Only the following did:
+
+Spain
+Belgium
+Luxembourg
+Austria
+Switzerland
+
+I tried figuring out if they all had something in common but couldn't find anything so I then tried different combinations of the first letters as the .htm but I got nothing. I then used the anagram converter http://www.wordsmith.org/anagram/ and got slabs but that still didn't work. I looked at the source code but also got nothing. I didn't know what else to do so I asked my friend and he said I had the right Idea but that I needed the country of origin sticker letters. I googled for it and found this site http://www.europeanplates.com/originstickers.htm .
+
+Spain = E
+Belgium = B
+Luxembourg = ? (I couldn't find it anywhere so I guessed L)
+Austria = A
+Switzerland = CH
+
+I then used the anagram converter http://www.wordsmith.org/anagram/ and got bleach. So the link is":
+
+bleach.htm
+
+This is the work of KaylaWolf, thanks again!
+
+Level 53: This one was easy. I viewed the source which had a clue. The clue was Dude what was the end of that leet song again? Leet=elite
+I also translated the title m34n=mean This is leet sp34k(elite speak). If you still don't know what I mean here are two things that may help http://www.microsoft.com/athome/security/children/kidtalk.mspx or http://ryanross.net/leet/ .
+
+The clue tells you everything. The clue wants you to listen to the l33t song which means there is an mp3 you need to listen to. If you remember from other puzzles mp3's are stored in the stuff folder. So you must take this link http://deathball.net/notpron/flutsch/bleach.htm and change it to http://deathball.net/notpron/stuff/music1337.mp3 (I had first tried musicleet.mp3 but that didn't work so I tried the other way of writing elite which is l337 which worked) Listen to the Big Voodoo Daddy song Simple Songs completely. Pay attention to the last word of the song as the clue tells you to. You will notice the last word is me.
+
+me.html
+
+This level was submitted again by kaylawolf, thanks!
+
+Level 54: Ok first this puzzle has two parts. The first part is very easy. Look at the source. See the clue <!--<--fucking right--> The arrow is pointing to the left but it isn't the exclamation. The exclamation mark is just part of the code which keeps the clue from displaying on the page making it only visiable in the source. Here is the entire line where the clue is at <html><!--<--fucking right--> The arrow is pointing to the html part. Look at the link http://deathball.net/notpron/flutsch/me.htmNotice anything missing at the end? The l isn't at the end of me.htm.
+
+me.html
+
+Level 54: Part 2 - Look at the paper the girl is holding. You will see this Pt Yb Er. For now the numbers that are small and in parenthesis by each one are not needed. Do they seem familiar? Remember chemistry? I search google for a periodic table. http://ccinfo.ims.ac.jp/periodic/periodic-main.html
+
+Pt= Platinum
+Yb= Ytterbium
+Er= Erbium
+
+For the next part you will need the numbers. I at first thought that meant the order it needed to be in ytterbiumerbiumplatinum.htm but it seemed to long. I tried it just incase but got nothing. Then I figured it meant use that many letters.
+
+Platinum (3)= Pla
+Ytterbium (1)= Y
+Erbium (2)= Er
+
+Notice anything? The letters spell out player.
+
+player.htm
+
+Before changing the url remember the h at the bottom of the picture. You will needed it for the next puzzle.
+
+This level was also submitted by KaylaWolf, she's very skilled!
+
+Level 55: I solved this one on my own no help lol. Anyways if you look in the source code it says things are only getting better. Ok now look at the pic name, it is worst. So I type in worse.jpg, i get the letter "m" then I type in bad.jpg I get "u" then I type in good.jpg I get "s" then I type in better.jpg and I get "u" then I type in best.jpg I get "m". Line the letters up from worse to best, and you spell gentle.
+
+gentle.htm
+New answer was submitted by Sykkes
+
+Level 56: Ok for this one print screen what is says, think out side the box what box? Say Jay Pack really fast three time (rememmber the older levels..) You get jpeg, change the pic to jpeg, overlap the 2 pics, you get 4 dots, look outside the box of the 4 dots, you get something like: soundslikeitisterrible
+
+soundslikeitisterrible.htm
+
+Level 57: "it has a bell and a 90 on the phone booth--that's the country code for some country--it's easy to find which one on the internet
+
+then if you look at the source code, at the bottom it says "a 358"
+
+the "a" stands for "area"
+
+not too hard--90 is the country code for turkey
+
+488 is the area code within turkey for a city called batman"
+(used to be turkey amasya)
+
+Username: batman
+Password: turkey
+*It will ask for you to enter it again, so do it*
+
+Answer submitted by habs4me
+
+Level 58: **Used to be poem.htm**.
+
+This one can be tricky. See the title "Wrong road" and view the source the clues are the image name which is turnback and been lead the wrong way. Go back to puzzle 57. If either you view the source or hover over the number 57 you will notice that you should be going to love/index.htm
+
+This is what I did. I made the url http://deathball.net/notpron/love/index.htm I hit enter and then quickly pressed stop. I then viewed the source and it states "Yeah thats the right way. Well done go to poetry.htm.
+
+poetry.htm
+New answer submitted by KaylaWolf, thanks again !
+
+Level 59:
+
+money.htm
+
+Level 60: It's an octaved version of Für Elise by Beethoven playing in the background.
+Means: the notes are randomly scattered around on other octaves, but they are still the same notes. When you play it 2 octaves higher, its good enough to realise which song it is.
+Who was it for? He wrote it for Therese(.htm) (DavidM)
+
+therese.htm
+(it was main.php)
+
+Level 61: og on to the mail Archives, user: Davidm, pass: any word real, any word, the thing here is that David cant code, cuz he is dumb and gay, so any password works, once u are the read the mail, then enter christine account, u see in the mails that her user is christine 83, and the pass is her favourite color, if u do level 44 u see that one was pink, also his bra on level 54 ,and the letters on level 61 r pink too, so the u/p must be Christine83:pink, on her mails u see the date of the recent pic, go there see the pic, and there is the answer, or u can check all the pics looking for the answer. http://www.deathball.net/notpron/love/encroach.htm (used to be kristina.htm)
+
+encroach.htm
+Answer submitted by Sykkes
+
+Level 62: the pic is for Christine (source of level 54), encode christine with the code in the source and u get
+
+hero.htm
+Answer submitted by Sykkes
+
+Level 63: get the notes, they are C F B A A E A A B G C E D B A E C D B B C E C B C A C B C G B E A A C D, CAiso and DEisZ, means that 2 notes makes 1 letter like this AA is A , AB is B, AC is C ... AG is G , BA is H, decoding u get "theanswerispopular" so the answer is
+http://www.deathball.net/notpron/love/popular.htm
+
+popular.htm
+
+Level 64: The Odissey by HOMER, a pic og MAGGI, the mona LISA, a BART (beard in german), the title is Yellow, so whos next?
+http://www.deathball.net/notpron/love/marge.htm
+
+marge.htm
+
+Level 65: Take out /love/marge.htm and put in /help: http://www.deathball.net/notpron/help/ then put in a wrong password and look at the source of the error page, it has <!fake> and <!page> in it, that is your answer.
+
+Username: fake
+Password: page
+(used to be evil error)
+
+Level 66: Go to the source (www.notpron.com) at the bottom of the page highlight and u get
+not pr0n, notpron, notpr0n, obscure, not pron, not porn, notporn, notp0rn, not p0rn
+Is now obscure.htm (used to be cheap.htm) Submitted by Sykkes
+
+Level 67A: its a constellation just name it (it appears too in Men in Black I) http://www.deathball.net/notpron/help/orion.htm
+
+orion.htm
+
+Level 67B: name the star (use google)
+http://www.deathball.net/notpron/help/betelgeuse.htm
+
+betelgeuse.htm
+
+Notpron walkthrough, Notpron cheat, notpron help, notpron spoiler.
+
+Level 68: Change the URL from:
+http://www.deathball.net/notpron/help/betelgeuse.htm
+to:
+http://www.deathball.net/notpron/help/68two.jpg
+Then three, then four ect. all the way up until at least sixteen!
+Some of the numbers are not there, but don't let that stop you.
+
+Read all of the pictures, for some of them provide clues!
+
+All said and done, you must go back to level 8 (first time you met Jay Pack) and get that special picture that was reformatted (mus2.jpg) and look at the IPTC data in a program such as PSP or something free like this:
+http://www.exifer.friedemann.info/
+
+In the Keywords field you will see the U/N Pass for the other level, and for this level.
+
+Go back to:
+
+http://www.deathball.net/notpron/help/betelgeuse.htm
+
+Look at the source code of that page and look at the ref tag:
+"../blub/jaypackknewmore.htm"
+
+Change the URL to:
+http://www.deathball.net/notpron/blub/jaypackknewmore.htm
+
+The user name / password box will come up:
+
+Username: notpron
+Password: rules
+Answer and solution submitted by Drs_Res
+
+Level 69: play the notes, this level was up on Xmas, the song is
+http://www.deathball.net/notpron/bummel/
+
+Username: jingle
+Password: bells
+
+Level 70: the opposite of next is back but next is on four pieces http://www.deathball.net/notpron/bummel/quarterback.htm
+
+quarterback.htm or diarrhoea.htm
+
+Level 71: check the pics, they are mispelled, corect the spell screen to screen and u get:
+
+immediately.htm
+
+Level 72: print the pic, red lines fold in, blue lines fold out, black ones( very black) cut, make the thing (tesseract.htm must helps), check the title "Outside from dawn till dusk", that means grey scale, on the outside numbers of the thing u meake, u get the number 145683 or 154683, write the numbers, take the first letters and u get
+
+Is now
+offset.htm
+(Used to be stones.htm)
+
+look at the pretty pics, then click on next level
+
+Level 73: Dont connect the dots, first connect the darker ones, u read "blind" go to blind.htm and u get a hint "check the X", so delete the "O" on the first pic, this is about bind, so how blind ppl read ? braille, yeah, divide the pic of the x on two rows of some columns, (braille letters are 3x2), decode in braille and u get "go tell me what i see", what do blind people see?
+
+nothing.htm
+
+Level 74: Now u are deaf, the msn hint stands for "ASL", (american sign language), google for that, the math part is the pic, the 1120 is 640+480 (the size), the real size of the pic is 400x600, so go to screen1000.jpg and u get another letter (the first letter is an "F" on ASL) keep getting pics adding the sizes and u get
+
+fishfry.htm
+
+Level 75: I seek you -----> ICQ ,contrast the pic on Psand u see a number, on ICQ u use numbers to identify, on www.icq.com chek the profile of that number read all the crap and ant the end u see
+It was improving.htm but it was changed to heathrow.htm and now to:
+
+scandalous.htm
+
+Level 76: see an airport, on the ICQ profile u get that he work on london, check airports aon london and try them, the correct is heathrow.htm u see a schedule now, with train lines of london, the london underground is called the "tube", g to tube.htm and thats the map, on the ICQ profile u get he works on Bakerstreet, so the schedule is the way from BAkerstreet to heathrow, chaging train lines in stations, get all the transfer stations, take the first letter, u get "beevgh" try beevgh.htm, u get a page that says "i second that", u took the first letter, so now take the second, u get admire.htm, it says go to /underground/ it ask for the fifth station
+
+Put in admire.htm then it will tell you to go to /underground/ so take out admire.htm and put /underground/ in the URL. Then for the username and pass it asks you for the 5th stop or something, Username: green Password: park
+
+Level 77: the title is a dong of Genesis, the mickey is for level 35 and the weird stuff is for level 19 --------> Genesis 35:19, check the u/p box it gives the hint for:
+
+Username: rachel
+Password: bethlehem
+
+Level 78: check the instructions, u can imagine the moves on your head, every instruction makes a letter
+pitiful.htm
+(Used to be crucifix.htm) New answer submitted by pelesy
+
+Level 79: No Solution yet.
+
+Level 80: Ok I just beat this level, and I am now on 81, this level is very time consuming, good luck! **Oh and just so you know the answer to this level was just changed so if you read the long word that begins with p in a different site, try it, it won't work, I just figured out the new answer..** For help in this level, you must have the 100 posts done.
+
+Level 81: This is actually the last level, but no solution yet.
+
+Level 82: For this level just go to level 0.
+
+Level 0: Replace the zero in /levelzero.htm with minusone
+
+levelminusone.htm
+
+Level -1: Remmeber asl from the + levels ? Sign language. That peace sign is the letter "v". so:
+
+v.htm:
+
+Level -2: The pic is a GIf, open it with a GIf editor, look the other pic, there is the answer
+
+symptomatic.htm
+
+Level -3: look the folders, one is marked so go there
+
+http://deathball.net/notpron/peanut/
+
+Level -4: This one is a copy of the Image Puzzle, Stage 10 i guess, darken the pic and some letters r resalted
+
+red.htm
+
+Level -5: Funny one, read the riddle, the pic's name is "count", count the letters by word, replace the words with numbers u get 3,1415.... the answer is obvious
+
+pi.htm
+
+Level -6: Too much work here, see the source code, there are <zip></zip> tags, that means dl the puzzleminus6.zip file inside theres a psd file (why dont use psd tags?, oh yeah that was used.....DUH!) open the psd file in PS, make the pictures, find teh differences, if they are correct u get a link to the next level towel, screw, phone
+
+plz.htm
+
+Level -7: This one is a copy of the "Asia Awaits" level of thisisnotporn.com, in that one u highlight the background copy and paste in notepad and the ascii things make three sentences, but this one is more simple (cuz notpron is a loooooooooooower version of thisisnotporn.com) just copy and paste the numbers in notepad and u read a word (capsa and big letters, in vertical way)
+
+nobin.htm
+
+Level -8: The numbers on the source code means notes, played on a guitar, go to this webpage http://guitarsecrets.com/all_notes.htm take each pair of numbers as a x,y and use the guitar as a map, each pair make a note, the notes make a word
+
+fade.htm
+
+Level -9: This one sucks, read the copied riddle (yeah its a copy of and old riddle, and changed to not be finded on google) the answer is there on the words, but if u r reading this, u have no brain to do that so i give u the answer
+
+d.htm
+
+Level -10: On the source there are coords of a map, just complete the html code or make it on paint too, u get some letters, make an anagram and u get
+
+latex.php
+
+Level -11: This level is the coolest of all the riddle, nice, just genial, of course isnt David's idea he just put the pic :p, change htm for php Want a cookie??, ...Cookies! check your cookies, search for the one of deathball.net, open it on notepad and u see the answer
+
+lavenderrose.htm
+
+Level -12: Another PS level, fold the pic for the middle horizontaly, the dots of the two sides make a word in lowercase, in the center of the folded pic
+
+mirror.htm
+
+Level -13: All is on the title pop stands for email, POP3 or sth like that google how works POP and try the words u get
+
+smtp.htm
+
+Level -14: Make a smtp.htm file on your desktop mark it and then press ctrl+c and ctrl+v u get another file with other name
+
+copy of smtp.htm
+
+Level -15: Too much work here, find all the numbers u can see, in arabic, in roman, the level number, the ones are writed (ONE, TEN ), all u CAN SEE like 1337 =1,3,3,7,13,33,37,133,337, ALL u get 41 numbers add them and the number is the answer
+
+7053.htm
+New answer from pelesy (used to be 7058.htm)
+
+Level -16: Listen what Cristine says, it matters?.. no, but she has hot voice yeah! also nice boobs, check the source code, the sound file is named minus16a.wav, so dl minus16b.wav, minus16c.wav, minus16d.wav, open them in a wave editor and mix them, listen to it , she tells u the answer
+
+extraordinary.htm
+
+Level -17: Another php, to much work here, just make the puzzle, every time u click on a square it changes color, also the ones that are up, down, left and right, the sequence is purple-orange-pink, when u solve it once theres a joke that says make it 8 times more, just check the source code and it tells u the next level. (Used to be chair.htm)
+
+charming.htm
+(Submitted by Valhall)
+
+Level -18: Sad one, AnMarga = anagram, an anagram of "hello you"?, obvious not, make an anagram with the letters of the color font code, the word is the answer
+
+facade.htm
+
+Level -19: The level makes reference to -18, the pic is named facade.jg, so change it to fedaac.jpg, u found son kind of code and a hint of shrek, about layers, so the thing here is layer the letters adding or extracting the letters, like this d-F=J or F+_=E, do the same for the others and u end with...
+
+jenga.htm
+
+Level -20: **CHANGED** Teamwork, so u need a partner here, make him submit a user/pass, then you refresh your browser, u see the user he submits, click on there put the password, and u get a link to the next level, if u r readeing this u r too dumb to make it and maybe u have no friends ao i tell u the answer (used to be foobar.htm)
+
+Level -21: Check the source code, the code is written in strange way, look the first letter of each row, they make a word
+
+hitrecord.htm
+
+Level -22: The words on the pic are written on different fonts, open the pic in Exif reader and in the info u see the name of the las one, find the other, take the first letter of each one, it makes a word
+
+claim.htm
+
+Level -23: The title is incomplete u need to find the missing part, the pic's name is claim--43.jpg, claim=-23, do some math -23+43=20, go to level 20, u see the title on the notebook , the answer is the missing part
+
+nisennasen.htm
+
+Level -24: The clues are in the title, first: get the notes of the music as level 18, then decode it like level 19, and finally u must do sth about on level 20,
+
+DAMN!, get the notes this time they are repeated three times,
+
+efdgefdgefdg =======> efdg
+
+thats the first part, then use the method on 19 but instead of moving 1 letter at the left move twelve
+
+efdg =====> srtu
+
+then open Word write in caps change the font to wingdings, u get:
+
+Droplet, Ice, Sun, Cross ======>
+
+disc.htm
+
+Level -25: OMFG! this was so cool, is just math, there are two clues in the pic one is on the number and other the one that the gays on the pic gives u (think 63), the way to get the answer is attached just click, the htm is
+
+
+clockwise.htm
+(used to be torque.htm)
+
+Level -26: **CHANGED** the big clue is the name of the pic "-26Page" page!, opening the pic on PS, brightening and contrasting u read a line on the left side of the border (hint border=0 i guess, well that help me), here u read
+
+p90, 1,5,7,27,19 or p4,25,1,3,37,4
+
+the thing here is the book that nobody is buying, theres a free version on http://deathball.net/notpron/makingoff.htm (yeah with two "f") check page 4 count the rows and take the first letter (Used to be witch.htm)
+
+Level -27: find the uncoupled tags in htm and make a word:
+
+bach.htm
+**The answer is not hanging.php that is dead end answer!!** Submitted by robot
+
+Level -28: Who is hanging on the picture? Find Mona Lisa member in forums and read the profile.
+
+hangingonthewall.htm
+Submitted by robot
+
+Level -29: Find the correct sequence of image names. Next is:
+-30yyy.jpg
+. Now You should look in the IPTC data for this picture:
+
+sameas31.htm
+Submitted by robot
+
+Level -30: When you go to Wikipedia, you search for Friday the 13th, there is a term for a fear of Friday the 13th
+
+paraskevidekatriaphobia.htm
+
+It will ask you to change it the .php
+**lucker.php is another dead end**
+
+Level -31:
+
+notpron/peanut/bedead
+
+You will later be redirected to notpron/jingjing/
+
+Level -32: 14 is c and -7 is r refer to the creators of the levels. if you use the
+numbers in the title, that gives you "sludge". "modest" is a wrong answer.
+
+notpron/jingjing/sludge.php
+
+Level -33: only has one part. the user/pass is in the bottom left hand of the pic,
+if you manipulate the pic in photoshop. rasp/berries
+
+notpron/jerk/
+
+Username: rasp Password: berries
+
+Level -34: you find the missing button. it is at
+http://deathball.net/notpron/notpron.htm. if you look at the source, you can
+see that there is no "gfx/1b.gif", while the other letters a-j are. plug
+that into the url after notpron and you see "junk" put junk in the url, it
+tells you its not available in english, so you make it "junkd" and you get a
+message in german that tells you the answer is "mir"
+
+/notpron/jerk/mir.php
+
+Level -35: you have to find 11 lettersusing all the methods from previous levels. i
+only found 10 of them, but was able to figure it out. feasibility.php
+
+/notpron/jerk/feasibility.php
+
+Level -36: find the .wav file, listen to it, it's 'life in mono'; you change the
+file to mono, and it gives you the letters "stereotype"
+
+notpron/jerk/stereotype.php
+
+Level -37: you have to figure out the correct street. "schumacherstr" (instead of
+kurt schumann, which does nto exist, there is a kurt schumacher street)
+
+notpron/jerk/schumacherstr.php
+
+Level -38: go to doramail.com, retrieve password for "davidm", its is "notpronownz"
+
+notpron/jerk/notpronownz.php
+
+Level -39: if you type out the letters on the keyboard, it makes the letters
+"saloon"
+
+notpron/jerk/saloon.php
+
+Level -40: find the wav file, there are 11 "touchtones". it gives you a number
+which translates as "compression"
+
+notpron/jerk/compression.php
+
+Level -41: write the equations out the long way, one on top of the other (5x5x5
+etc.) each set looks like a letter. elf.php
+
+notpron/jerk/elf.php
+
+Level -42: horsemode" means like the knight in chess. if you use that as a guide,
+you get "stick"
+
+notpron/jerk/stick.php
+
+
+Level -43: you have to go to the notpron forums to find the picture. if you look at
+the exif info, there is a number that if you google it, is a patent owned by
+alexander graham bell
+
+notpron/mrow/bell.php
+
+
+Level -44: find the sizes (in pixels) of the rectangles and squares. the translate
+using ascii, as "go_to_../greece/"
+
+notpron/greece/ 
