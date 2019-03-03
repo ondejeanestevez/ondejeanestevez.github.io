@@ -21,6 +21,11 @@ body {
 h2 {
   color: #504d4d;
 }
+nav {
+        display: flex;
+        justify-content: center
+
+}
 
 .container-fluid {
   border-style: dashed;
